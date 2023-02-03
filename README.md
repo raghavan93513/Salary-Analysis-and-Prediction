@@ -63,8 +63,8 @@ I looked at the distributions of the data and the value counts for the various c
 
 ![alt text](https://github.com/raghavan93513/Salary-Analysis-and-Prediction/blob/main/Screenshots/bar.jpg)
 ![alt text](https://github.com/raghavan93513/Salary-Analysis-and-Prediction/blob/main/Screenshots/heatmap.jpg)
-![alt text](https://github.com/raghavan93513/Salary-Analysis-and-Prediction/blob/main/Screenshots/hist%20of%20avg%20sal.jpg)
 ![alt text](https://github.com/raghavan93513/Salary-Analysis-and-Prediction/blob/main/Screenshots/pivot.jpg)
+![alt text](https://github.com/raghavan93513/Salary-Analysis-and-Prediction/blob/main/Screenshots/hist%20of%20avg%20sal.jpg)
 ![alt text](https://github.com/raghavan93513/Salary-Analysis-and-Prediction/blob/main/Screenshots/wordcloud.jpg)
 
 ## Model Building 
